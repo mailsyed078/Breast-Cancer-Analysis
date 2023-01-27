@@ -1,2 +1,3 @@
-# Breast-Cancer
-The malignant and benign status of the tumour of the patient has been predicted using supervised SVM algorithm. The accuracy is found to be 96.4%
+# Breast Cancer Analysis
+This regression problem uses various feature engineering techniques for data modeling a supervised machine learning regression using algorithms 
+like support vector machine (SVM), decision tree regression, random forest regression and logistic regression etc.
